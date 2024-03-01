@@ -227,7 +227,7 @@ There are many ways to join the sktime community. We follow the [all-contributor
 [enhancement proposals]: https://github.com/sktime/enhancement-proposals
 [roles]: https://www.sktime.net/en/latest/about/team.html
 
-<!--START_CONTRIBUTORS_WIDGET-->
+## Contributors' Hall of Fame
 <a href="https://github.com/fkiraly"><img src="https://avatars.githubusercontent.com/u/7985502?v=4" alt="fkiraly" title="fkiraly" width="50" height="50"></a>
 <a href="https://github.com/mloning"><img src="https://avatars.githubusercontent.com/u/21020482?v=4" alt="mloning" title="mloning" width="50" height="50"></a>
 <a href="https://github.com/TonyBagnall"><img src="https://avatars.githubusercontent.com/u/9594042?v=4" alt="TonyBagnall" title="TonyBagnall" width="50" height="50"></a>

@@ -29,7 +29,8 @@ def update_readme(owner, repo, contributors):
         readme_contents = file.read()
 
     # Define the start and end markers for the section to update
-    start_marker = "<!--START_CONTRIBUTORS_WIDGET-->"
+    # start_marker = "<!--START_CONTRIBUTORS_WIDGET-->"
+    start_marker = "## Contributors' Hall of Fame"
     end_marker = "<!--END_CONTRIBUTORS_WIDGET-->"
 
     # Find the start and end positions of the section to update
