@@ -228,12 +228,12 @@ There are many ways to join the sktime community. We follow the [all-contributor
 [roles]: https://www.sktime.net/en/latest/about/team.html
 
 ## Contributors' Hall of Fame
-<a href="https://github.com/fkiraly"><img src="https://avatars.githubusercontent.com/u/7985502?v=4" alt="fkiraly" title="fkiraly" width="50" height="50"></a>
-<a href="https://github.com/mloning"><img src="https://avatars.githubusercontent.com/u/21020482?v=4" alt="mloning" title="mloning" width="50" height="50"></a>
-<a href="https://github.com/TonyBagnall"><img src="https://avatars.githubusercontent.com/u/9594042?v=4" alt="TonyBagnall" title="TonyBagnall" width="50" height="50"></a>
-<a href="https://github.com/MatthewMiddlehurst"><img src="https://avatars.githubusercontent.com/u/25731235?v=4" alt="MatthewMiddlehurst" title="MatthewMiddlehurst" width="50" height="50"></a>
-<a href="https://github.com/sajaysurya"><img src="https://avatars.githubusercontent.com/u/25329624?v=4" alt="sajaysurya" title="sajaysurya" width="50" height="50"></a>
-<!--END_CONTRIBUTORS_WIDGET--><!--END_CONTRIBUTORS_WIDGET-->
+<div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/fkiraly"><img src="https://avatars.githubusercontent.com/u/7985502?v=4" alt="fkiraly" title="fkiraly" width="50" height="50"></a><p style="text-align: center;">fkiraly</p></div>
+<div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/mloning"><img src="https://avatars.githubusercontent.com/u/21020482?v=4" alt="mloning" title="mloning" width="50" height="50"></a><p style="text-align: center;">mloning</p></div>
+<div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/TonyBagnall"><img src="https://avatars.githubusercontent.com/u/9594042?v=4" alt="TonyBagnall" title="TonyBagnall" width="50" height="50"></a><p style="text-align: center;">TonyBagnall</p></div>
+<div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/MatthewMiddlehurst"><img src="https://avatars.githubusercontent.com/u/25731235?v=4" alt="MatthewMiddlehurst" title="MatthewMiddlehurst" width="50" height="50"></a><p style="text-align: center;">MatthewMiddlehurst</p></div>
+<div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/sajaysurya"><img src="https://avatars.githubusercontent.com/u/25329624?v=4" alt="sajaysurya" title="sajaysurya" width="50" height="50"></a><p style="text-align: center;">sajaysurya</p></div>
+<!--END_CONTRIBUTORS_WIDGET--><!--END_CONTRIBUTORS_WIDGET--><!--END_CONTRIBUTORS_WIDGET-->
 
 ## :bulb: Project vision
 

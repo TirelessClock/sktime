@@ -9,9 +9,12 @@ def get_contributors(owner, repo):
 def update_readme(owner, repo, contributors):
     # Define the HTML template for the widget
     widget_template = (
+        '<div style="display: inline-block; margin-right: 10px;">'
         '<a href="{profile_url}">'
         '<img src="{avatar_url}" alt="{username}" title="{username}" width="50" height="50">'
         '</a>'
+        '<p style="text-align: center;">{username}</p>'
+        '</div>'
     )
 
     # Generate HTML widgets for each contributor
