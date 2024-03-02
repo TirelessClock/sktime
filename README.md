@@ -234,7 +234,7 @@ There are many ways to join the sktime community. We follow the [all-contributor
 <div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/TirelessClock"><img src="https://avatars.githubusercontent.com/u/92638241?v=4" alt="TirelessClock" title="TirelessClock" width="100" height="100" style="border-radius: 50%; border: 3px solid green;"></a><p style="text-align: center;">bottom: TirelessClock</p></div>
 <div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/ninedigits"><img src="https://avatars.githubusercontent.com/u/16393653?v=4" alt="ninedigits" title="ninedigits" width="100" height="100" style="border-radius: 50%; border: 3px solid green;"></a><p style="text-align: center;">bottom: ninedigits</p></div>
 <div style="display: inline-block; margin-right: 10px;"><a href="https://github.com/sbuse"><img src="https://avatars.githubusercontent.com/u/24408707?v=4" alt="sbuse" title="sbuse" width="100" height="100" style="border-radius: 50%; border: 3px solid green;"></a><p style="text-align: center;">bottom: sbuse</p></div>
-<!--END_CONTRIBUTORS_WIDGET--><!--END_CONTRIBUTORS_WIDGET-->
+<!--END_CONTRIBUTORS_WIDGET--><!--END_CONTRIBUTORS_WIDGET--><!--END_CONTRIBUTORS_WIDGET-->
 
 
 ## :bulb: Project vision
