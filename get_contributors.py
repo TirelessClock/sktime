@@ -41,9 +41,9 @@ def display(top_contributors, new_contributors):
     widget_template = (
         '<div style="display: inline-block; margin-right: 10px;">'
         '<a href="{profile_url}">'
-        '<img src="{avatar_url}" alt="{username}" title="{username}" width="100" height="100" style="border-radius: 50%; border: 3px solid {border_color};">'
+        '<img src="{avatar_url}" alt="{username}" title="{username}" width="100" height="100" style="border-radius: 100%; border: 3px solid {border_color};">'
         '</a>'
-        '<p style="text-align: center;">bottom: {username}</p>'
+        '<p style="text-align: center;">{username}</p>'
         '</div>'
     )
 
@@ -97,7 +97,7 @@ def main():
 
     # If the section exists, replace it with the updated information
     if start_pos != -1 and end_pos != -1:
-        updated_section = f"{start_marker}\n{widgets_html}\n{end_marker}"
+        updated_section = f"{start_marker}\n{widgets_html}\n"
         updated_contents = (
             readme_contents[:start_pos]
             + updated_section
