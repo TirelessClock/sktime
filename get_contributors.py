@@ -43,7 +43,7 @@ def display(top_contributors, new_contributors):
         '<a href="{profile_url}">'
         '<img src="{avatar_url}" alt="{username}" title="{username}" width="100" height="100" style="border-radius: 50%; border: 3px solid {border_color};">'
         '</a>'
-        '<p style="text-align: center;">{username}</p>'
+        '<p style="text-align: center;">bottom: {username}</p>'
         '</div>'
     )
 
