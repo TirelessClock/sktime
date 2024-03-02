@@ -39,7 +39,7 @@ def analyze_contributions(contributors_data):
 def display(top_contributors, new_contributors): 
     
     widget_template = (
-        '<div style="display: inline-block; margin-right: 10px;">'
+        '<div style="display: inline; margin-right: 10px;">'
         '<a href="{profile_url}">'
         '<img src="{avatar_url}" alt="{username}" title="{username}" width="100" height="100" style="border-radius: 100%; border: 3px solid {border_color};">'
         '</a>'
@@ -81,9 +81,7 @@ def main():
     widgets = display(top_contributors, new_contributors)
 
     # Combine widgets into a single HTML string
-    widgets_stuff = '\n'.join(widgets)
-
-    widgets_html = f'<div style = "background-color: green"> {widgets_stuff} </div>'
+    widgets_html = '\n'.join(widgets)
 
     # Read existing contents of the README file
     with open("README.md", "r") as file:
