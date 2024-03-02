@@ -39,7 +39,7 @@ def analyze_contributions(contributors_data):
 def display(top_contributors, new_contributors): 
     
     widget_template = (
-        '<div style="display: inline-block; margin-right: 10px;">'
+        '<div style="display: inline-block; margin-right: 10px; border: 3px solid red;">'
         '<a href="{profile_url}">'
         '<img src="{avatar_url}" alt="{username}" title="{username}" width="100" height="100" style="border-radius: 100%; border: 3px solid {border_color};">'
         '</a>'
